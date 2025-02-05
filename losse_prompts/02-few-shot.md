@@ -34,6 +34,9 @@ Recensie: "Wat een saaie film! Ik heb me de hele tijd verveeld."
 Sentiment: Negatief
 Recensie: "De film was oké, niet goed, niet slecht."
 Sentiment: Neutraal
+
+Recensie: Paddington is een hartverwarmende film die zowel jong als oud zal bekoren.
+Sentiment:
 ```
 
 ### Hoeveel voorbeelden heb je nodig?
