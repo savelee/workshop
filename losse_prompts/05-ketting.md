@@ -1,19 +1,18 @@
-# Level 5: Chain Of Thought (CoT) --- Een ketting van gedachten.
+# Level 5: Chain Of Thought (CoT) - Een ketting van gedachten.
 
 ## Uitleg
-Slimme computers (LLM's) zijn goed in taal, maar soms hebben ze moeite met logisch nadenken, vooral bij taken zoals rekenen. Chain of Thought (CoT) prompting is een slimme manier om ze daarbij te helpen. Het is alsof je de computer vraagt om hardop te denken, zodat je kunt zien hoe hij tot een antwoord komt. Een ketting van gedachten.
+Taalmodellen zijn goed in taal, maar soms hebben ze moeite met logisch nadenken, vooral bij taken zoals rekenen. Chain of Thought (CoT) prompting is een slimme manier om ze daarbij te helpen. Het is alsof je de computer vraagt om hardop te denken, zodat je kunt zien hoe hij tot een antwoord komt. Een ketting van gedachten.
 
 ### Hoe werkt het?
 
-In plaats van alleen de vraag te stellen, vraag je de LLM om de stappen te laten zien die hij neemt om tot het antwoord te komen. Je zegt bijvoorbeeld niet alleen:
+In plaats van alleen de vraag te stellen, vraag je het taalmodel om de stappen te laten zien die hij neemt om tot het antwoord te komen. Je zegt bijvoorbeeld niet alleen:
 
 `Hoe oud is mijn broer?`, maar: `Hoe oud is mijn broer? Laten we stap voor stap denken.`
 
 ### Waarom is het handig?
 
-- Betere Antwoorden: Door de tussenstappen te laten zien, kan de LLM betere en nauwkeurigere antwoorden geven.
-- Begrip: Je kunt zien hoe de LLM tot zijn antwoord komt. Als er iets fout gaat, kun je zien waar het misgaat.
-- Makkelijk te gebruiken: CoT prompting is makkelijk toe te passen en werkt goed met de meeste LLM's.
+- Betere Antwoorden: Door de tussenstappen te laten zien, kan het taalmodel betere en nauwkeurigere antwoorden geven.
+- Begrip: Je kunt zien hoe het taalmodel tot zijn antwoord komt. Als er iets fout gaat, kun je zien waar het misgaat.
 
 ## Voorbeeld: Een Rekenprobleem
 
@@ -26,7 +25,7 @@ Antwoord: 63 jaar oud (Fout!)
 ```
 
 
-Zoals je ziet, is het antwoord fout. LLM's hebben vaak moeite met rekenen.
+Zoals je ziet, is het antwoord fout. Taalmodellen hebben vaak moeite met rekenen.
 
 Met CoT:
 
@@ -42,15 +41,15 @@ Dus mijn broer is nu 9 + 17 = 26 jaar oud.
 Mijn broer is dus 26 jaar oud. (Goed!)
 ```
 
-Nu is het antwoord wel goed! Door de LLM stap voor stap te laten denken, komt hij tot de juiste oplossing.
+Nu is het antwoord wel goed! Door het taalmodel stap voor stap te laten denken, komt hij tot de juiste oplossing.
 
 # Nu jij:
-Kopieer de volgende prompt in https://gemini.google.com
+Kopieer de volgende prompt in https://michielderuyter.uc.r.appspot.com/
 
     Toen ik 3 was, was mijn broer 3 keer zo oud. Nu ben ik 20. Hoe oud is mijn broer? Laat mij iedere stap zien.
 
 Maak nu een ketting van gedachten door het delen van een voorbeeld. 
-Kopieer de volgende prompt in https://gemini.google.com
+Kopieer de volgende prompt in https://michielderuyter.uc.r.appspot.com/
 
     Vraag: Toen mijn broer 2 jaar oud was, was ik dubbel zo oud. Nu ben ik 40 jaar oud. Hoe oud is mijn broer? Laat mij iedere stap zien.
 

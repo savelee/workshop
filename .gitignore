@@ -1,0 +1,5 @@
+*gemapp/
+*env/
+.dockerignore
+deploy.txt
+Dockerfile
