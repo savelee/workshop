@@ -37,3 +37,8 @@ Kopieer de volgende prompt in https://michielderuyter.uc.r.appspot.com/
 Zet nu de creativiteit op 0.7.
 
     Maak de zin af. Een hond die
+
+Kopieer de volgende prompt in https://michielderuyter.uc.r.appspot.com/
+
+    Vertaal de volgende zin naar het Engels: 
+    Ik hou van van computerspelletjes.
