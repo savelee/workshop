@@ -7,9 +7,9 @@ onder de motorkap praat het tegen Gemini, het taalmodel van Google.
 
 **Klik op de links om naar de verschillende onderdelen te gaan:**
 
-*   [01-de-prompt](losse_prompts/01-de-prompt.md) -  **Uitleg:** *Wat is een prompt en hoe schrijf je een goede prompt om de LLM te krijgen wat je wilt.*
+*   [01-de-prompt](losse_prompts/01-de-prompt.md) -  **Uitleg:** *Wat is een prompt en hoe schrijf je een goede prompt.*
 *   [02-few-shot](losse_prompts/02-few-shot.md) -  **Uitleg:** *Hoe je het taalmodel voorbeelden kunt geven (few-shot learning) om betere resultaten te krijgen.*
-*   [03-prompt-met-rollen](losse_prompts/03-prompt-met-rollen.md) -  **Uitleg:** *Hoe je het taalmodel een rol kunt geven (role prompting) om de output te beïnvloeden.*
+*   [03-prompt-met-rollen](losse_prompts/03-prompt-met-rollen.md) -  **Uitleg:** *Hoe je het taalmodel een rol kunt geven (role prompting) om het resultaat te beïnvloeden.*
 *   [04-context](losse_prompts/04-context.md) -  **Uitleg:** *Hoe je context meegeeft aan het taalmodel zodat hij betere antwoorden kan geven.*
 *   [05-ketting](losse_prompts/05-ketting.md) -  **Uitleg:** *Hoe je het taalmodel stap voor stap kunt laten denken (Chain of Thought prompting) om tot een oplossing te komen.*
 
@@ -19,6 +19,6 @@ BONUS:
 
 Huiswerk:
 
-*   [07-multimodaal](losse_prompts/07-multimodaal.md) -  **Uitleg:** *Hoe je taalmodellen kunt gebruiken in combinatie met beelden (multimodale LLM's).*
+*   [07-multimodaal](losse_prompts/07-multimodaal.md) -  **Uitleg:** *Hoe je taalmodellen kunt gebruiken in combinatie met beelden (multimodale taalmodellen).*
 
 **Veel plezier en succes met de workshop!**
