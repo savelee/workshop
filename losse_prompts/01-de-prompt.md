@@ -24,3 +24,16 @@ Kopieer de volgende prompt in https://michielderuyter.uc.r.appspot.com/
 
     Schrijf een kort verhaaltje over een Marvel karakter, in maximaal 5 zinnen. 
     Iedere zin op een nieuwe regel. In het Nederlands.
+
+Zet nu de creativiteit op 0.1.
+Kopieer de volgende prompt in https://michielderuyter.uc.r.appspot.com/
+
+    Wat is de hoofdstad van Noorwegen?
+
+Kopieer de volgende prompt in https://michielderuyter.uc.r.appspot.com/
+
+    Maak de zin af. Een hond die
+
+Zet nu de creativiteit op 0.7.
+
+    Maak de zin af. Een hond die

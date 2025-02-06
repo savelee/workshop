@@ -21,6 +21,7 @@ Het taalmodel kan je code bekijken en helpen om de fouten op te sporen. Het is n
 Een voorbeeld:
 
 # Nu jij:
+Zet de creativiteit op 0.1.
 Kopieer de volgende prompt in https://michielderuyter.uc.r.appspot.com/
 
     Schrijf een Python-programma voor een 'Raad het Getal' spel.  

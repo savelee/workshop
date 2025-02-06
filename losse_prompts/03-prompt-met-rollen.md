@@ -18,8 +18,10 @@ Kortom, role prompting is een leuke en handige manier om slimme computers te geb
 # Nu jij:
 Kopieer de volgende prompt in https://michielderuyter.uc.r.appspot.com/
 
-    Jij werkt in een reisbureau. Vertel iets over Parijs. In het Nederlands.
+    Jij werkt in een reisbureau. 
+    Vertel iets over Parijs.
 
 Pas nu de prompt aan:
 
-    Jij bent nu een leraar aardrijkskunde. Vertel iets over Parijs. In het Nederlands.
+    Jij bent nu een leraar aardrijkskunde. 
+    Vertel iets over Parijs.

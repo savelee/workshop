@@ -44,6 +44,7 @@ Mijn broer is dus 26 jaar oud. (Goed!)
 Nu is het antwoord wel goed! Door het taalmodel stap voor stap te laten denken, komt hij tot de juiste oplossing.
 
 # Nu jij:
+Zet de creativiteit op 0.1.
 Kopieer de volgende prompt in https://michielderuyter.uc.r.appspot.com/
 
     Toen ik 3 was, was mijn broer 3 keer zo oud. Nu ben ik 20. Hoe oud is mijn broer? Laat mij iedere stap zien.
