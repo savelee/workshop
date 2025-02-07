@@ -23,7 +23,7 @@ Kortom, prompt engineering is een belangrijk onderdeel van het werken met AI's. 
 Kopieer de volgende prompt in https://michielderuyter.uc.r.appspot.com/
 
     Schrijf een kort verhaaltje over een Marvel karakter, in maximaal 5 zinnen. 
-    Iedere zin op een nieuwe regel. In het Nederlands.
+    Iedere zin op een nieuwe regel.
 
 Zet nu de creativiteit op 0.1.
 Kopieer de volgende prompt in https://michielderuyter.uc.r.appspot.com/

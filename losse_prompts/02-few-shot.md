@@ -63,3 +63,6 @@ Kopieer de volgende prompt in https://michielderuyter.uc.r.appspot.com/
     Sneeuwwitje = Held
     Maleficent = Schurk
     Jafar =
+
+Je mag ook proberen om zelf categorieën te bedenken, met voorbeelden.
+(Bijv. groeten & fruit, zoet & zout, vogels die kunnen vliegen & vogels die niet kunnen vliegen...)

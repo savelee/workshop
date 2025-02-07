@@ -5,13 +5,13 @@ Wist je dat taalmodellen niet alleen kunnen praten en verhalen kunnen schrijven,
 Dat is best cool! Ze kunnen je helpen met allerlei taken die te maken hebben met computercode.
 
 ### Wat kunnen ze precies?
-- Code Schrijven: Je kunt het taalmodel vragen om een stukje code te schrijven in een bepaalde programmeertaal, zoals Python. 
+- **Code Schrijven:** Je kunt het taalmodel vragen om een stukje code te schrijven in een bepaalde programmeertaal, zoals Python. 
 Stel, je wilt een simpel spelletje maken, dan kun je het taalmodel vragen om de code te schrijven.
-- Code Vertalen: Soms heb je code in de ene taal (bijvoorbeeld Java) en wil je die omzetten naar een andere taal (bijvoorbeeld Python). 
+- **Code Vertalen:** Soms heb je code in de ene taal (bijvoorbeeld Java) en wil je die omzetten naar een andere taal (bijvoorbeeld Python). 
 Het taalmodel kan je helpen om de code te vertalen.
-- Fouten Opsporen (Debuggen): Iedereen maakt wel eens fouten in zijn code. Dat is normaal! Maar het is soms lastig om die fouten te vinden. 
+- **Fouten Opsporen (Debuggen):** Iedereen maakt wel eens fouten in zijn code. Dat is normaal! Maar het is soms lastig om die fouten te vinden. 
 Het taalmodel kan je code bekijken en helpen om de fouten op te sporen. Het is net een slimme detective voor je code!
-- Code Uitleggen: Soms kom je code tegen die je niet begrijpt. Het taalmodel kan je helpen om de code uit te leggen, zodat je snapt wat er gebeurt.
+- **Code Uitleggen:** Soms kom je code tegen die je niet begrijpt. Het taalmodel kan je helpen om de code uit te leggen, zodat je snapt wat er gebeurt.
 
 ### Waarom is dit handig?
 - Je kunt sneller leren programmeren: Het taalmodel is als een slimme leraar die je helpt met de moeilijke dingen.

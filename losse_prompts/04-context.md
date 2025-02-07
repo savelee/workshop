@@ -9,18 +9,23 @@ Zonder context is het moeilijk voor het taalmodel om het juiste antwoord te geve
 
 ## Voorbeeld: Een Verhaal voor een Actiegame
 
-Stel, je wilt dat het taalmodel een verhaal bedenkt voor een actievideo game. Zonder context zou je kunnen zeggen: 
-`Verzin een verhaal voor een actiegame.` Maar dat is niet genoeg! Het taalmodel heeft meer informatie nodig.
+Stel, je vraagt een taalmodel: `Wie heeft er chocolade gegeten?` Maar dat is niet genoeg! Het taalmodel heeft meer informatie nodig.
+Het taalmodel heeft geen context, dus zal zeggen: `Ik weet niet.`, of bedenkt iets compleet anders.
 
 ### Met Context:
 
 ```
-Verzin een verhaal voor een actievideo game. Het spel speelt zich af in de ruimte, op een verlaten ruimtestation. 
-De speler is een astronaut die moet overleven en de geheimen van het station moet ontdekken. 
-Er zijn buitenaardse wezens die het station overnemen. De speler heeft een laserpistool en een jetpack.
+Jij bent een detective, Jan, Jaap en Jorrik staan in de keuken.
+Jorrik heeft een bruine veeg op zn mond.
+Wie heeft er chocolade gegeten? 
 ```
+Antwoord:
+    Dat is een goede vraag! Om erachter te komen wie er chocolade heeft gegeten, moeten we een beetje detectivewerk doen.
 
-We hebben nu veel meer details gegeven: waar het spel zich afspeelt (verlaten ruimtestation), wie de speler is (astronaut), wat het doel is (overleven en geheimen ontdekken), wie de vijanden zijn (buitenaardse wezens) en welke middelen de speler heeft (laserpistool en jetpack).
+    We weten dat Jorrik een bruine veeg op zijn mond heeft. Dat betekent dat hij iets bruins heeft gegeten of gedronken. Het meest voor de hand liggende is dat hij chocolade heeft gegeten.
+
+We hebben nu veel meer details gegeven, je bent een detective, we moeten erachter komen wie er chocolade heeft gegeten.
+3 kinderen staan in de keuken, Jan, Jaap en Jorrik, en Jorrik heeft een bruine veeg op zn mond. - Genoeg context!
 
 ## Wat gebeurt er met het taalmodel?
 
@@ -29,7 +34,7 @@ Door deze contextuele prompt kan het taalmodel zich een veel beter beeld vormen 
 # Nu jij:
 Kopieer de volgende prompt in https://michielderuyter.uc.r.appspot.com/
 
-    Jij bent een maker van computer spelletjes. Verzin een Nederlands verhaal voor een actievideo game. Maximaal 1 paragraaf, geschikt voor kinderen onder de 12 jaar.
+    Jij bent een maker van computer spelletjes. Verzin een verhaal voor een actievideo game. Maximaal 1 paragraaf, geschikt voor kinderen onder de 12 jaar.
 
     CONTEXT:
     Het spel speelt zich af in de ruimte, op een verlaten ruimtestation. De speler is een astronaut die moet overleven en de geheimen van het station moet ontdekken.
@@ -41,3 +46,5 @@ Kopieer de volgende prompt in https://michielderuyter.uc.r.appspot.com/
 
     CONTEXT:
     In de ruimte, ver weg van de aarde, ligt het ruimtestation "Sterrenwacht" er verlaten bij. Jij bent ruimteheld Alex, een slimme astronaut met een stoer laserpistool en een handige jetpack. Op een dag krijg je een belangrijk bericht: "Onderzoek Sterrenwacht!" Het station is al een tijdje stil, en er is iets vreemds aan de hand. Wanneer je aankomt, zie je overal groene, slijmerige sporen... brrr! Het blijkt dat er buitenaardse wezentjes, de "Glibbermonsters", het station hebben overgenomen! Ze zijn superglibberig en kunnen zich overal verstoppen. Aan jou de taak om Sterrenwacht te redden! Met je laserpistool schiet je de Glibbermonsters weg en met je jetpack vlieg je door de ruimte om alle hoeken en gaten te onderzoeken. Vind de geheime code om de hoofdkamer te bereiken, waar de leider van de Glibbermonsters zich verstopt. Versla hem en zorg ervoor dat Sterrenwacht weer veilig is! Maar pas op, de Glibbermonsters zijn slim en proberen je te slim af te zijn. Gebruik je jetpack om ze te ontwijken en los puzzels op om nieuwe kamers te ontdekken. Lukt het jou om Sterrenwacht te redden en de held van de ruimte te worden?
+
+Kun jij zelf een prompt bedenken met context?

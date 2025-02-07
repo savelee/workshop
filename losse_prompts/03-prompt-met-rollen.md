@@ -1,4 +1,4 @@
-# Level 3: Role Prompting --- Geef de Slimme Computer een Baan!
+# Level 3: Role Prompting --- Geef het taalmodel een baan!
 
 ## Uitleg
 Stel je voor, je hebt een taalmodel die allerlei taken kan uitvoeren. Maar wat als je hem nu eens een specifieke rol geeft, zoals een juf, een dokter of een detective? Dat is role prompting!
@@ -25,3 +25,6 @@ Pas nu de prompt aan:
 
     Jij bent nu een leraar aardrijkskunde. 
     Vertel iets over Parijs.
+
+Kun jij zelf een prompt met een rol bedenken?
+(Idee: Wat is het beste medicijn tegen.... (Rol: Oma vs. dokter vs. kok))

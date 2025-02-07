@@ -11,8 +11,8 @@ In plaats van alleen de vraag te stellen, vraag je het taalmodel om de stappen t
 
 ### Waarom is het handig?
 
-- Betere Antwoorden: Door de tussenstappen te laten zien, kan het taalmodel betere en nauwkeurigere antwoorden geven.
-- Begrip: Je kunt zien hoe het taalmodel tot zijn antwoord komt. Als er iets fout gaat, kun je zien waar het misgaat.
+- **Betere Antwoorden:** Door de tussenstappen te laten zien, kan het taalmodel betere en nauwkeurigere antwoorden geven.
+- **Begrip:** Je kunt zien hoe het taalmodel tot zijn antwoord komt. Als er iets fout gaat, kun je zien waar het misgaat.
 
 ## Voorbeeld: Een Rekenprobleem
 
