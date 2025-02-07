@@ -21,7 +21,6 @@ Wie heeft er chocolade gegeten?
 ```
 Antwoord:
     Dat is een goede vraag! Om erachter te komen wie er chocolade heeft gegeten, moeten we een beetje detectivewerk doen.
-
     We weten dat Jorrik een bruine veeg op zijn mond heeft. Dat betekent dat hij iets bruins heeft gegeten of gedronken. Het meest voor de hand liggende is dat hij chocolade heeft gegeten.
 
 We hebben nu veel meer details gegeven, je bent een detective, we moeten erachter komen wie er chocolade heeft gegeten.
