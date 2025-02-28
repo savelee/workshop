@@ -27,4 +27,4 @@ Pas nu de prompt aan:
     Vertel iets over Parijs.
 
 Kun jij zelf een prompt met een rol bedenken?
-(Idee: Wat is het beste medicijn tegen.... (Rol: Oma vs. dokter vs. kok))
+(Idee: Wat is volgens jou het beste medicijn tegen hoofdpijn.... (Rol: Oma vs. dokter vs. kok))

@@ -47,7 +47,7 @@ Nu is het antwoord wel goed! Door het taalmodel stap voor stap te laten denken, 
 Zet de creativiteit op 0.1.
 Kopieer de volgende prompt in https://michielderuyter.uc.r.appspot.com/
 
-    Toen ik 3 was, was mijn broer 3 keer zo oud. Nu ben ik 20. Hoe oud is mijn broer? Laat mij iedere stap zien.
+    Toen ik 3 was, was mijn broer 3 keer zo oud. Nu ben ik 20. Hoe oud is mijn broer?
 
 Maak nu een ketting van gedachten door het delen van een voorbeeld. 
 Kopieer de volgende prompt in https://michielderuyter.uc.r.appspot.com/
